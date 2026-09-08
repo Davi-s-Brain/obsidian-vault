@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9525e2a12a09b498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be319f8d5eb4ec71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projetando aplicações com uso intensivo de dados"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa3499b2500ca4f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7d8315e8944ebc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77c7055ee62686e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e1eb37b1ac96fb8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "984b51a0cfd41f24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ab1b155105a12ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ef2285e71c06c1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bed418bd68c7b78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Faculdade.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Faculdade"
+            }
+          },
+          {
+            "id": "fb73b33fa9069d05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Bem-vindo"
+            }
+          },
+          {
+            "id": "d5123e63c1f8ce54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c51c5004c582892a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2d9877aa42cba28c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "681cb6aad825b098",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "be319f8d5eb4ec71",
+  "lastOpenFiles": [
+    "2 - Referências/Livros/Flow.md",
+    "6 - Notas principais/2026-03-21.md",
+    "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
+    "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
+    "4 - Indexes/HOME.md",
+    "5 - Templates/Nota Principal.md",
+    "Notion/Trabalho PAGBANK.md",
+    "Notion/Segredos da Área Tech.md",
+    "6 - Notas principais/Trabalho PAGBANK.md",
+    "6 - Notas principais/Segredos da Área Tech.md",
+    "6 - Notas principais/Aprender a aprender.md",
+    "6 - Notas principais/Visão de vida.md",
+    "6 - Notas principais/Projetos.md",
+    "6 - Notas principais/Untitled 1.md",
+    "6 - Notas principais/Untitled.md",
+    "6 - Notas principais/Método G.A.L.I.N.H.A 🐔.md",
+    "6 - Notas principais/Metas Relacionamentos.md",
+    "6 - Notas principais/Metas Saúde.md",
+    "6 - Notas principais/Metas Profissionais.md",
+    "6 - Notas principais/Metas Pessoais.md",
+    "6 - Notas principais/Melhorar.md",
+    "6 - Notas principais/Maestria Matemática.md",
+    "6 - Notas principais/Dicas para o vício.md",
+    "6 - Notas principais/Dicas para LinkedIn.md",
+    "6 - Notas principais/Dicas para focar mais.md",
+    "6 - Notas principais/Dicas de entrevista.md",
+    "Untitled.canvas",
+    "1 - Notas brutas/22swisher-articleLarge.jpg",
+    "1 - Notas brutas/Untitled 14.png",
+    "1 - Notas brutas/Untitled 13.png",
+    "1 - Notas brutas/explained.png",
+    "1 - Notas brutas/Untitled 12.png",
+    "1 - Notas brutas/Untitled 8 2.png",
+    "1 - Notas brutas/Untitled 7 2.png",
+    "1 - Notas brutas/Untitled 6 2.png",
+    "1 - Notas brutas/Untitled 5 2.png",
+    "1 - Notas brutas/Untitled 4 2.png",
+    "1 - Notas brutas/Chapter_1_(1).pdf",
+    "1 - Notas brutas/Syllabus_ACH2014_2023_1S.pdf",
+    "1 - Notas brutas/Aula_1_-_As_Consequncias_Da_Modernidade.pdf",
+    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Administrative Asks/Successful Emails",
+    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Administrative Asks/Unsuccessful Emails",
+    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Administrative Asks",
+    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Recruitment Emails",
+    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Finances/Spending History/2022 Finances",
+    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Finances/Spending History",
+    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Music ensemble/Finance & sponsorships/Email Templates/Administrative Asks/Successful Emails"
+  ]
+}
