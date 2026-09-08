@@ -19,8 +19,8 @@ Insira resumo do livro aqui
 > [!important] Quando imersos neste estado, perdemos nossa autoconsciência, senso de tempo e egoísmo.
 
 ## Conexões
-- [[Citações do Flow]] — Trechos marcantes do livro
-- [[As lições do livro]] — 7 lições extraídas
+- [[Conceitos-chave]] — Trechos marcantes do livro
+- [[Melhores práticas]] — Lições enxutas extraídas
 
 ## Ação
 - Revisitar citações e lições ao aplicar a filosofia do Flow na vida

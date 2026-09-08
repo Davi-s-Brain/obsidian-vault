@@ -67,7 +67,7 @@ date: 2026-09-03
 - [[Flow]] — Livro de Mihaly Csikszentmihalyi
   - [[Citações do Flow]] — Trechos marcantes
   - [[As lições do livro]] — 7 lições sobre flow e autoexpressão
-
+- [[Projetando aplicações com uso intensivo de dados]] 
 ---
 
 ## Referência Rápida
