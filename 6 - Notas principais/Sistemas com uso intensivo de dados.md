@@ -29,5 +29,4 @@ Concomitantemente a isso, diversas aplicações precisam:
 
 ---
 # Referências
-- [[Projetando aplicações com uso intensivo de dados]]
 - [[Conceitos-chave]]
