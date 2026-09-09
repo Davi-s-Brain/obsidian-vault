@@ -15,12 +15,13 @@ aliases: []
 Aqui se encontram todos os conceitos que julguei serem os mais importantes para um entendimento completo do presente livro.
 
 ## Conteúdo
-- [[Sistemas com uso intensivo de dados]] 
-- [[Sistemas analíticos vs Sistemas Operacionais]] 
-- [[Processamento de transações e análise de dados]]
-- [[Data warehouse]]
-- [[Data Lake]]
-- [[Sistemas de registro e de dados derivados]]
+- Capítulo 1 
+	- [[Sistemas com uso intensivo de dados]] 
+	- [[Sistemas analíticos vs Sistemas Operacionais]] 
+	- [[Processamento de transações e análise de dados]]
+	- [[Data warehouse]]
+	- [[Data Lake]]
+	- [[Sistemas de registro e de dados derivados]]
 
 ## Conexões
 <!-- Que outras notas se conectam aqui? Use [[]] -->
