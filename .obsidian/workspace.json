@@ -205,7 +205,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Notas principais/Processamento de transações e análise de dados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -276,11 +275,11 @@
       "opencode:Opencode conversations": false
     }
   },
-  "active": "d803ca9cfb5e7923",
+  "active": "fe80794a0cab20c6",
   "lastOpenFiles": [
+    "6 - Notas principais/Processamento de transações e análise de dados.md",
     "6 - Notas principais/Conceitos-chave.md",
     "6 - Notas principais/Sistemas analíticos vs Sistemas Operacionais.md",
-    "6 - Notas principais/Processamento de transações e análise de dados.md",
     "Untitled.canvas",
     "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
     "6 - Notas principais/Sistemas de registro e de dados derivados.md",
