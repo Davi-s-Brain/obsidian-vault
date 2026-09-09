@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/MOC.md",
+                "file": "1 - Notas brutas/Venda de site para pequenos negócios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Venda de site para pequenos negócios"
             }
           }
         ]
@@ -234,10 +234,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1 - Notas brutas/Venda de site para pequenos negócios.md",
     "6 - Notas principais/Projetos.md",
-    "6 - Notas principais/Auto Desenvolvimento.md",
     "4 - Indexes/MOC.md",
+    "1 - Notas brutas/Venda de site para pequenos negócios.md",
+    "6 - Notas principais/Auto Desenvolvimento.md",
     "6 - Notas principais/Data Lake.md",
     "6 - Notas principais/Conceitos-chave.md",
     "6 - Notas principais/Data warehouse.md",
