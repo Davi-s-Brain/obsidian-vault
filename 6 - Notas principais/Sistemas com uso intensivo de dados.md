@@ -4,7 +4,7 @@ time: 21:26
 tags:
   - DDIA
   - tecnologia
-status: rascunho
+status: concluído
 source:
 aliases: []
 ---
@@ -24,16 +24,10 @@ Concomitantemente a isso, diversas aplicações precisam:
 - Armazenar dados para serem recuperados rapidamente posteriormente
 - Lembrar de uma operação custosa para acelerar as leituras (_caches_)
 - Permitir que usuários pesquisem por dados por palavra-chave (_índices de busca_)
-- Tratar eventos e mudanças nos dados assim que ocorrem (_Aplica_)
-
-## Conexões
-<!-- Que outras notas se conectam aqui? Use [[]] -->
-
-## Ação
-<!-- O que fazer com isso? Próximos passos concretos -->
+- Tratar eventos e mudanças nos dados assim que ocorrem (_processamento de fluxos_)
+- Processar periodicamente grandes volumes de dados acumulados (_Aplicações de batch_)
 
 ---
-
 # Referências
 - [[Projetando aplicações com uso intensivo de dados]]
 - [[Conceitos-chave]]

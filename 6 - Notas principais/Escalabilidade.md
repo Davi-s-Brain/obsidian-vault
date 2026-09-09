@@ -11,18 +11,12 @@ aliases: []
 
 # Escalabilidade
 
-## Resumo
-<!-- 2-3 frases: o que esta nota é sobre e por que existe -->
-
 ## Conteúdo
 
+Se refere ao desempenho de um sistema, e a capacidade de o mesmo se adaptar a demanda, seja *escalando verticalmente* ou *horizontalmente*. Parâmetros como, quantidade de escritas no banco de dados, cache hit e requisições por minuto.
 
+*Escalando verticalmente*: é simplesmente quando se tem um sistema, rodando em um servidor, e se aumenta a capacidade deste servidor, pode ser adicionando mais memória RAM, mais capacidade de CPU ou algum outro componente de hardware. Mas a escalada vertical é sempre dentro de um mesmo servidor.
+
+*Escalada horizontal*: por outro lado, a escalada vertical entra em jogo quando adicionamos mais servidores para executar a mesma aplicação. Geralmente os servidores tem a configuração mais ou menos parecida.  
 ## Conexões
-<!-- Que outras notas se conectam aqui? Use [[]] -->
-
-## Ação
-<!-- O que fazer com isso? Próximos passos concretos -->
-
----
-
-# Referências
+- [[Projetando aplicações com uso intensivo de dados]]

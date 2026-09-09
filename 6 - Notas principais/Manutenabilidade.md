@@ -11,18 +11,9 @@ aliases: []
 
 # Manutenabilidade
 
-## Resumo
-<!-- 2-3 frases: o que esta nota é sobre e por que existe -->
-
 ## Conteúdo
 
-
+Manutenabilidade é o termo que diz respeito a 
 ## Conexões
-<!-- Que outras notas se conectam aqui? Use [[]] -->
+- [[Projetando aplicações com uso intensivo de dados]]
 
-## Ação
-<!-- O que fazer com isso? Próximos passos concretos -->
-
----
-
-# Referências

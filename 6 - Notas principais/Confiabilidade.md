@@ -4,25 +4,15 @@ time: 21:20
 tags:
   - DDIA
   - tecnologia
-status: rascunho
+status: concluído
 source:
 aliases: []
 ---
 
 # Confiabilidade
-
-## Resumo
-<!-- 2-3 frases: o que esta nota é sobre e por que existe -->
-
+---
 ## Conteúdo
-
+Confiabilidade se refere a capacidade de um sistema de ser confiável, mediante a tudo que envolve o seu funcionamento que pode falhar, seja hardware (um HD que da pau), software (por bugs, má implementação ou raios cósmicos).
 
 ## Conexões
-<!-- Que outras notas se conectam aqui? Use [[]] -->
-
-## Ação
-<!-- O que fazer com isso? Próximos passos concretos -->
-
----
-
-# Referências
+- [[Projetando aplicações com uso intensivo de dados]]
