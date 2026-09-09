@@ -16,10 +16,11 @@ Aqui se encontram todos os conceitos que julguei serem os mais importantes para 
 
 ## Conteúdo
 - [[Sistemas com uso intensivo de dados]] 
-- [[Sistemas analíticos]] 
-- [[Sistemas Operacionais]]
-- [[Processamento de transações]]
-- [[Análise de dados]]
+- [[Sistemas analíticos vs Sistemas Operacionais]] 
+- [[Processamento de transações e análise de dados]]
+- [[Data warehouse]]
+- [[Data Lake]]
+- [[Sistemas de registro e de dados derivados]]
 
 ## Conexões
 <!-- Que outras notas se conectam aqui? Use [[]] -->

@@ -1,13 +1,13 @@
 ---
-date: "2026-09-09"
-time: "09:01"
+date: 2026-09-09
+time: 09:14
 tags: []
 status: rascunho
-source: 
+source:
 aliases: []
 ---
 
-# Análise de dados
+# Sistemas analíticos vs Sistemas Operacionais
 
 ## Resumo
 <!-- 2-3 frases: o que esta nota é sobre e por que existe -->
