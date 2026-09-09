@@ -53,7 +53,6 @@ date: 2026-09-03
 - [[Auto Desenvolvimento]] — Habilidades para se desenvolver
 - [[Dicas para LinkedIn]] — Perfil profissional e presença online
 - [[Dicas de entrevista]] — Como se preparar para processos seletivos
-- [[Projetos]] — Projetos em andamento e ideias
 - [[Análise de dados dos jogos da Steam]] — Projeto de dados
 - [[Segredos da Área Tech]] — Bastidores do mercado dev
 - [[Trabalho PAGBANK]] — Engenharia de plataforma e DevOps
@@ -70,6 +69,9 @@ date: 2026-09-03
 - [[Projetando aplicações com uso intensivo de dados]] 
 ---
 
+## Projetos
+
+- [[Projetos]] — Projetos em andamento e ideias
 ## Referência Rápida
 
 > [!example]- Ver tudo por pasta

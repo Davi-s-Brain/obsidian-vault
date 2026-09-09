@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/MOC.md",
+                "file": "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Projetando aplicações com uso intensivo de dados"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0ab1b155105a12ac",
@@ -92,6 +93,7 @@
       {
         "id": "4ef2285e71c06c1f",
         "type": "tabs",
+        "dimension": 36.1003861003861,
         "children": [
           {
             "id": "4bed418bd68c7b78",
@@ -182,10 +184,27 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "d879b9f05cf163ab",
+        "type": "tabs",
+        "dimension": 63.899613899613904,
+        "children": [
+          {
+            "id": "f329cf1f03aa559d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 538.37109375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,11 +222,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f329cf1f03aa559d",
   "lastOpenFiles": [
-    "6 - Notas principais/Manutenabilidade.md",
-    "6 - Notas principais/Escalabilidade.md",
     "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
+    "6 - Notas principais/Manutenabilidade.md",
+    "6 - Notas principais/Projetos.md",
+    "6 - Notas principais/Escalabilidade.md",
+    "4 - Indexes/MOC.md",
     "6 - Notas principais/Melhores práticas.md",
     "6 - Notas principais/Confiabilidade.md",
     "1 - Notas brutas/Untitled 6.png.md",
@@ -216,7 +237,6 @@
     "6 - Notas principais/Untitled.md",
     "1 - Notas brutas/Venda de site para pequenos negócios.md",
     "6 - Notas principais/Citações do Flow.md",
-    "4 - Indexes/MOC.md",
     "4 - Indexes/Drawing 2026-09-08 20.20.31.excalidraw.md",
     "5 - Templates/Nota Principal.md",
     "6 - Notas principais/2026-03-21.md",
@@ -227,7 +247,6 @@
     "6 - Notas principais/Segredos da Área Tech.md",
     "6 - Notas principais/Aprender a aprender.md",
     "6 - Notas principais/Visão de vida.md",
-    "6 - Notas principais/Projetos.md",
     "6 - Notas principais/Método G.A.L.I.N.H.A 🐔.md",
     "6 - Notas principais/Metas Relacionamentos.md",
     "6 - Notas principais/Metas Saúde.md",
