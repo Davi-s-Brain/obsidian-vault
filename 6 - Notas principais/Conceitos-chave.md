@@ -16,6 +16,10 @@ Aqui se encontram todos os conceitos que julguei serem os mais importantes para 
 
 ## Conteúdo
 - [[Sistemas com uso intensivo de dados]] 
+- [[Sistemas analíticos]] 
+- [[Sistemas Operacionais]]
+- [[Processamento de transações]]
+- [[Análise de dados]]
 
 ## Conexões
 <!-- Que outras notas se conectam aqui? Use [[]] -->
