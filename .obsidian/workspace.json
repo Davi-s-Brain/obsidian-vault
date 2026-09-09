@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "a5cf7965ce24dd46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Notas principais/Conceitos-chave.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceitos-chave"
+            }
+          },
+          {
             "id": "ce8816e4716ed362",
             "type": "leaf",
             "state": {
@@ -33,16 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "Melhores práticas"
-            }
-          },
-          {
-            "id": "3b9c7938d5fa0d8c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           },
           {
@@ -58,23 +62,9 @@
               "icon": "lucide-file",
               "title": "Venda de site para pequenos negócios"
             }
-          },
-          {
-            "id": "a5cf7965ce24dd46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Notas principais/Conceitos-chave.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conceitos-chave"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,13 +246,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77c7055ee62686e3",
+  "active": "a5cf7965ce24dd46",
   "lastOpenFiles": [
+    "6 - Notas principais/Melhores práticas.md",
+    "6 - Notas principais/Conceitos-chave.md",
+    "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
     "1 - Notas brutas/Venda de site para pequenos negócios.md",
     "6 - Notas principais/Untitled.md",
-    "6 - Notas principais/Melhores práticas.md",
-    "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
-    "6 - Notas principais/Conceitos-chave.md",
     "6 - Notas principais/Citações do Flow.md",
     "4 - Indexes/MOC.md",
     "4 - Indexes/Drawing 2026-09-08 20.20.31.excalidraw.md",
