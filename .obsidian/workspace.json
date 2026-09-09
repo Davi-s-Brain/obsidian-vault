@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Indexes/HOME.md",
+                "file": "6 - Notas principais/Sistemas analíticos vs Sistemas Operacionais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -254,7 +254,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "b63d08adfe47143c",
@@ -275,7 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.37109375
+    "width": 507.53125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,14 +295,14 @@
   },
   "active": "ee54c2f9bb605b4a",
   "lastOpenFiles": [
-    "6 - Notas principais/Sistemas de registro e de dados derivados.md",
+    "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
     "6 - Notas principais/Conceitos-chave.md",
+    "6 - Notas principais/Sistemas analíticos vs Sistemas Operacionais.md",
+    "6 - Notas principais/Sistemas de registro e de dados derivados.md",
     "6 - Notas principais/Data Lake.md",
     "6 - Notas principais/Data warehouse.md",
     "6 - Notas principais/Processamento de transações e análise de dados.md",
-    "6 - Notas principais/Sistemas analíticos vs Sistemas Operacionais.md",
     "6 - Notas principais/Sistemas Operacionais.md",
-    "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
     "6 - Notas principais/Análise de dados.md",
     "6 - Notas principais/Manutenabilidade.md",
     "6 - Notas principais/Projetos.md",
