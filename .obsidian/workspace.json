@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "Conceitos-chave"
             }
+          },
+          {
+            "id": "3cf813b2e1ac34f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Notas principais/Conceitos-chave.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceitos-chave"
+            }
+          },
+          {
+            "id": "767511d972593414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Notas brutas/Venda de site para pequenos negócios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Venda de site para pequenos negócios"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +150,6 @@
       {
         "id": "4ef2285e71c06c1f",
         "type": "tabs",
-        "dimension": 61.48648648648649,
         "children": [
           {
             "id": "4bed418bd68c7b78",
@@ -192,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Notas principais/Data Lake.md",
+                "file": "1 - Notas brutas/Venda de site para pequenos negócios.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,9 +252,8 @@
         "currentTab": 6
       },
       {
-        "id": "46601c4da531560e",
+        "id": "8dd36e0c269bad7a",
         "type": "tabs",
-        "dimension": 38.513513513513516,
         "children": [
           {
             "id": "95cedef52aa4befe",
@@ -243,7 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 612.89453125
+    "width": 610.41796875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,12 +289,15 @@
       "opencode:Opencode conversations": false
     }
   },
-  "active": "2cb153091f82f424",
+  "active": "767511d972593414",
   "lastOpenFiles": [
-    "6 - Notas principais/Sistemas de registro e de dados derivados.md",
-    "6 - Notas principais/Conceitos-chave.md",
+    "6 - Notas principais/Projetos.md",
+    "6 - Notas principais/Auto Desenvolvimento.md",
+    "4 - Indexes/MOC.md",
     "6 - Notas principais/Data Lake.md",
+    "6 - Notas principais/Conceitos-chave.md",
     "6 - Notas principais/Data warehouse.md",
+    "6 - Notas principais/Sistemas de registro e de dados derivados.md",
     "6 - Notas principais/Processamento de transações e análise de dados.md",
     "6 - Notas principais/Sistemas analíticos vs Sistemas Operacionais.md",
     "6 - Notas principais/Sistemas com uso intensivo de dados.md",
@@ -277,9 +306,7 @@
     "6 - Notas principais/Sistemas Operacionais.md",
     "6 - Notas principais/Análise de dados.md",
     "6 - Notas principais/Manutenabilidade.md",
-    "6 - Notas principais/Projetos.md",
     "6 - Notas principais/Escalabilidade.md",
-    "4 - Indexes/MOC.md",
     "6 - Notas principais/Melhores práticas.md",
     "6 - Notas principais/Confiabilidade.md",
     "1 - Notas brutas/Untitled 6.png.md",
