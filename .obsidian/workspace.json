@@ -22,6 +22,48 @@
             }
           },
           {
+            "id": "feed8a26f39f646b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Notas principais/Confiabilidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Confiabilidade"
+            }
+          },
+          {
+            "id": "9366e7416886004c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Notas principais/Manutenabilidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Manutenabilidade"
+            }
+          },
+          {
+            "id": "244de4501ee628b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Notas principais/Escalabilidade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Escalabilidade"
+            }
+          },
+          {
             "id": "a5cf7965ce24dd46",
             "type": "leaf",
             "state": {
@@ -63,8 +105,7 @@
               "title": "Venda de site para pequenos negócios"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,13 +287,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5cf7965ce24dd46",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "6 - Notas principais/Melhores práticas.md",
-    "6 - Notas principais/Conceitos-chave.md",
-    "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
-    "1 - Notas brutas/Venda de site para pequenos negócios.md",
+    "6 - Notas principais/Escalabilidade.md",
+    "6 - Notas principais/Manutenabilidade.md",
+    "6 - Notas principais/Confiabilidade.md",
     "6 - Notas principais/Untitled.md",
+    "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
+    "6 - Notas principais/Conceitos-chave.md",
+    "6 - Notas principais/Melhores práticas.md",
+    "1 - Notas brutas/Venda de site para pequenos negócios.md",
     "6 - Notas principais/Citações do Flow.md",
     "4 - Indexes/MOC.md",
     "4 - Indexes/Drawing 2026-09-08 20.20.31.excalidraw.md",
@@ -271,9 +315,6 @@
     "6 - Notas principais/Metas Saúde.md",
     "6 - Notas principais/Metas Profissionais.md",
     "6 - Notas principais/Metas Pessoais.md",
-    "6 - Notas principais/Melhorar.md",
-    "6 - Notas principais/Maestria Matemática.md",
-    "6 - Notas principais/Dicas para o vício.md",
     "Untitled.canvas",
     "1 - Notas brutas/22swisher-articleLarge.jpg",
     "1 - Notas brutas/Untitled 14.png",

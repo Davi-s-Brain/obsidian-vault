@@ -13,7 +13,7 @@ aliases: []
 Projetando aplicações com uso intensivo de dados
 
 ## Resumo
-Insira resumo do livro aqui
+Este livro trata de conceitos como [[Escalabilidade]], [[Manutenabilidade]] e [[Confiabilidade]]. Além disso, aborda com profundidade a facilidade
 ## Conteúdo
 
 > [!important] Quando imersos neste estado, perdemos nossa autoconsciência, senso de tempo e egoísmo.
