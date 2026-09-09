@@ -13,17 +13,17 @@ aliases: []
 Projetando aplicações com uso intensivo de dados
 
 ## Resumo
-Este livro trata de conceitos como [[Escalabilidade]], [[Manutenabilidade]] e [[Confiabilidade]]. Além disso, aborda com profundidade a facilidade
+Este livro trata de conceitos como [[Escalabilidade]], [[Manutenabilidade]] e [[Confiabilidade]]. Além disso, aborda com profundidade a facilidade de manutenção, bancos de dados relacionais e não relacionais, data lakes e data warehouses, sempre com uma variedade de exemplos, vantagens e desvantagens de cada abordagem.  
 ## Conteúdo
 
-> [!important] Quando imersos neste estado, perdemos nossa autoconsciência, senso de tempo e egoísmo.
+> [!important] Uma verdadeira bíblia quando se trata de System Design. Um aprendizado que pode mudar a completamente a forma como projetamos aplicações de larga escala
 
 ## Conexões
 - [[Conceitos-chave]] — Trechos marcantes do livro
 - [[Melhores práticas]] — Lições enxutas extraídas
 
 ## Ação
-- Revisitar citações e lições ao aplicar a filosofia do Flow na vida
+- Revisitar citações e lições ao aplicar a filosofia do System Design
 
 ---
 

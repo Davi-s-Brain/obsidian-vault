@@ -15,7 +15,7 @@ aliases: []
 Aqui se encontram todos os conceitos que julguei serem os mais importantes para um entendimento completo do presente livro.
 
 ## Conteúdo
-
+- [[Sistemas com uso intensivo de dados]] 
 
 ## Conexões
 <!-- Que outras notas se conectam aqui? Use [[]] -->
