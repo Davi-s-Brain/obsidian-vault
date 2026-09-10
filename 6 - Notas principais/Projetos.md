@@ -18,6 +18,7 @@ Lista de projetos pessoais: análise de dados Steam, sistema de recomendação d
 - Algoritmo de recomendação de filmes baseados nos filmes da Fabi
 - Micro-serviços em Java, com paralelismo, filas e observabilidade
 - [[Venda de site para pequenos negócios]]
+- [[Projeto de pipeline de notas com IA]]
 
 ## Conexões
 - [[Análise de dados dos jogos da Steam]] — Projeto de análise de dados
