@@ -42,6 +42,7 @@ date: 2026-09-03
 - [[Aprender a aprender]] — Curso de Barbara Oakley (memória, repetição espaçada)
 - [[Maestria Matemática]] — Dicas de estudo para matemática
 - [[Conteúdos previstos]] — Checklist de conteúdos de cálculo
+- [[MOC - Organização e Arquitetura de Computadores]] — Mapa da matéria (pipeline de notas)
 
 ---
 

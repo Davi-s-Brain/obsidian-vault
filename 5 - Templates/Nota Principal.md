@@ -4,6 +4,7 @@ time: "{{time}}"
 tags: []
 status: rascunho
 source: 
+matéria: 
 aliases: []
 ---
 
@@ -24,3 +25,4 @@ aliases: []
 ---
 
 # Referências
+<!-- Aula-fonte do pipeline: [[AULA X - ...]] ou URL externa em source: -->
