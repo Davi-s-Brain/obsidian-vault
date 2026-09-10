@@ -31,7 +31,8 @@ Este projeto consiste basicamente numa pipeline que pega um arquivo PDF escrito 
 
 ## Ação
 ---
-- [ ] Criar uma nota no Samsung notes e compartilhar automaticamente com o PC
+- [x] Criar uma nota no Samsung notes e compartilhar automaticamente com o PC
+- [ ] Criar um script em python que pega automaticamente as notas que foram adicionadas, lê as mesmas, e gera um arquivo markdown, adicionando eles na pasta do obsidian
 
 
 # Referências

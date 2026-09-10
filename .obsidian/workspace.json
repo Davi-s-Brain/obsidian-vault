@@ -108,6 +108,7 @@
       {
         "id": "4ef2285e71c06c1f",
         "type": "tabs",
+        "dimension": 65.73359073359073,
         "children": [
           {
             "id": "4bed418bd68c7b78",
@@ -207,11 +208,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "8dd36e0c269bad7a",
         "type": "tabs",
+        "dimension": 34.26640926640926,
         "children": [
           {
             "id": "95cedef52aa4befe",
@@ -227,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.35546875
+    "width": 843.4375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,7 +249,7 @@
       "opencode:Opencode conversations": false
     }
   },
-  "active": "75e571f367c867dd",
+  "active": "5662417a22515e24",
   "lastOpenFiles": [
     "6 - Notas principais/Projeto de pipeline de notas com IA.md",
     "6 - Notas principais/Projetos.md",
