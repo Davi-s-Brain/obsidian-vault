@@ -22,6 +22,7 @@ Aqui se encontram todos os conceitos que julguei serem os mais importantes para 
 	- [[Data warehouse]]
 	- [[Data Lake]]
 	- [[Sistemas de registro e de dados derivados]]
+	- [[Nuvem vs Autohospedagem]]
 
 ## Conexões
 <!-- Que outras notas se conectam aqui? Use [[]] -->

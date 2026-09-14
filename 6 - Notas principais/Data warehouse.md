@@ -1,9 +1,11 @@
 ---
-date: "2026-09-09"
-time: "09:17"
-tags: []
+date: 2026-09-09
+time: 09:17
+tags:
+  - tecnologia
+  - DDIA
 status: rascunho
-source: 
+source:
 aliases: []
 ---
 
