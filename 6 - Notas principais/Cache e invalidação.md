@@ -12,7 +12,7 @@ source:
 aliases:
   - cache
   - Redis
-  - @Cacheable
+  - Cacheable
 ---
 
 # Cache e invalidação

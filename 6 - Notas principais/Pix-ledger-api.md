@@ -6,7 +6,7 @@ tags:
   - aprendizado
   - projetos
   - pix-ledger-api
-status: rascunho
+status: Em andamento
 source: https://github.com/Davi-s-Brain/pix-ledger-api
 aliases:
   - Pix Ledger
@@ -21,12 +21,12 @@ Ledger de pagamentos estilo PIX com foco em **corretude sob concorrência** e **
 ## Conteúdo
 
 ### Arquitetura (os 4 pilares)
-| Pilar | Mecanismo | Nota |
-|---|---|---|
-| Atomicidade | débito + crédito no mesmo `@Transactional` | [[Transações atômicas]] |
-| Concorrência | lançamento com lock otimista + retry; transferência com lock pessimista | [[Lock otimista]] · [[Lock pessimista]] |
-| Eventos | publicado após COMMIT, consumer idempotente | [[Eventos após o commit]] · [[Idempotência]] |
-| Leitura | cache de records no Redis | [[Cache e invalidação]] |
+| Pilar        | Mecanismo                                                               | Nota                                         |
+| ------------ | ----------------------------------------------------------------------- | -------------------------------------------- |
+| Atomicidade  | débito + crédito no mesmo `@Transactional`                              | [[Transações atômicas]]                      |
+| Concorrência | lançamento com lock otimista + retry; transferência com lock pessimista | [[Lock otimista]] · [[Lock pessimista]]      |
+| Eventos      | publicado após COMMIT, consumer idempotente                             | [[Eventos após o commit]] · [[Idempotência]] |
+| Leitura      | cache de records no Redis                                               | [[Cache e invalidação]]                      |
 
 ### Conceitos
 - [[Lock pessimista]] — `SELECT ... FOR UPDATE` em ordem de UUID (sem deadlock)

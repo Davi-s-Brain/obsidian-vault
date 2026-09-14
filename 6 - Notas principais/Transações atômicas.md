@@ -5,13 +5,12 @@ tags:
   - tecnologia
   - aprendizado
   - projetos
-  - banco de dados
   - pix-ledger-api
 status: rascunho
 source:
 aliases:
   - atomicity
-  - @Transactional
+  - Transactional
 ---
 
 # Transações atômicas

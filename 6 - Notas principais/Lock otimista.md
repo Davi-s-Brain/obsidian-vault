@@ -12,7 +12,7 @@ source:
 aliases:
   - lock otimista
   - optimistic lock
-  - @Version
+  - Version
 ---
 
 # Lock otimista
