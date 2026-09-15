@@ -40,11 +40,11 @@ Processador que executa múltiplas instruções independentes simultaneamente us
 
 ### Superescalar × Superpipeline
 
-| | Superescalar | Superpipeline |
-|---|---|---|
-| Estrutura | 2+ pipelines em paralelo | 1 pipeline "normal", mais profundo (mais estágios) |
-| Ganho | mais instruções por ciclo | clock mais alto (estágios mais finos) |
-| Paralelismo | no nível de instrução (múltiplas unidades) | temporal (estágios menores) |
+|             | Superescalar                               | Superpipeline                                      |
+| ----------- | ------------------------------------------ | -------------------------------------------------- |
+| Estrutura   | 2+ pipelines em paralelo                   | 1 pipeline "normal", mais profundo (mais estágios) |
+| Ganho       | mais instruções por ciclo                  | clock mais alto (estágios mais finos)              |
+| Paralelismo | no nível de instrução (múltiplas unidades) | temporal (estágios menores)                        |
 
 ### Paralelismo no nível de instrução (ILP)
 - Potencial de paralelismo do programa, explorado com otimização do compilador

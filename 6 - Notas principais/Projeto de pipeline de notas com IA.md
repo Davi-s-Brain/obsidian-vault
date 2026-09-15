@@ -70,6 +70,7 @@ Regras derivadas da prática:
 
 ## Conexões
 [[Projetos]]
+[[Diagrama pipeline de notas]]
 
 ## Ação
 ---

@@ -22,15 +22,43 @@
             }
           },
           {
+            "id": "9dda59513399dac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Notas principais/Superescalares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Superescalares"
+            }
+          },
+          {
             "id": "3e200e0bc967d44d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Notas principais/Projeto de pipeline de notas com IA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projeto de pipeline de notas com IA"
+            }
+          },
+          {
+            "id": "b4ba1b2f05a494ed",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-15 20.15.31.excalidraw.md"
+                "file": "Excalidraw/Diagrama pipeline de notas.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-15 20.15.31.excalidraw"
+              "title": "Diagrama pipeline de notas"
             }
           },
           {
@@ -48,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-15 20.15.31.excalidraw.md",
+                "file": "Excalidraw/Diagrama pipeline de notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-15 20.15.31.excalidraw.md",
+                "file": "Excalidraw/Diagrama pipeline de notas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -234,15 +262,16 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "3e200e0bc967d44d",
+  "active": "b4ba1b2f05a494ed",
   "lastOpenFiles": [
+    "6 - Notas principais/Superescalares.md",
+    "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
+    "Excalidraw/Diagrama pipeline de notas.md",
+    "6 - Notas principais/Projeto de pipeline de notas com IA.md",
+    "6 - Notas principais/Nuvem vs Autohospedagem.md",
     "Excalidraw/Libraries/local-library.excalidrawlib",
     "Excalidraw/Libraries",
     "Excalidraw/Untitled.md",
-    "Excalidraw/Drawing 2026-09-15 20.15.31.excalidraw.md",
-    "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
-    "6 - Notas principais/Superescalares.md",
-    "6 - Notas principais/Nuvem vs Autohospedagem.md",
     "6 - Notas principais/Conceitos-chave.md",
     "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
     "6 - Notas principais/Melhores práticas.md",
@@ -250,7 +279,6 @@
     "6 - Notas principais/Projetos.md",
     "2 - Referências/Aula Bruta/RISC Superescalares.md",
     "5 - Templates/Nota Principal.md",
-    "6 - Notas principais/Projeto de pipeline de notas com IA.md",
     "6 - Notas principais/Risc X Cisc.md",
     "1 - Notas brutas/RISC Superescalares.md",
     "6 - Notas principais/Branch desvio.md",
@@ -281,7 +309,6 @@
     "1 - Notas brutas/Aula_1_-_As_Consequncias_Da_Modernidade.pdf",
     "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Administrative Asks/Successful Emails",
     "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Administrative Asks/Unsuccessful Emails",
-    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Administrative Asks",
-    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Recruitment Emails"
+    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Administrative Asks"
   ]
 }
