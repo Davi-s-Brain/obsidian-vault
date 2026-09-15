@@ -1,5 +1,7 @@
 # Risc × Cisc
 
+> Nota refinada em: [[Risc X Cisc]]
+
 ## Cisc
 - Instruções complexas que podem vários coisas
 - Tem mais poder semântico
@@ -65,4 +67,4 @@ NoOp = No Operation, é tipo um stall de Software
 
 ---
 
-A imagem mostra uma página preta com um padrão de pontos brancos distribuídos uniformemente. Não há texto, gráficos ou outros elementos visíveis na página.
+> Seção RISC & CISC da aula de [[Branch desvio]] (famílias de computadores, UC microprogramada, cache, microprocessadores) também incorporada na nota refinada [[Risc X Cisc]].

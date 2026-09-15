@@ -1,7 +1,9 @@
 ---
-tags: [index, moc]
+tags:
+  - index
+  - moc
 date: 2026-09-10
-matéria: Arquitetura de Computadores
+matéria: OAC II
 ---
 
 # Arquitetura de Computadores

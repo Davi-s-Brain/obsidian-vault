@@ -1,5 +1,7 @@
 # Branch desvio
 
+> Nota refinada em: [[Branch desvio]]
+
 - Desvios impedem a pipeline de encher e causa penalidade de performance
 - O desvio otimiza porque a unidade de controle sempre aposta no caso comum de que a execução continua e a próxima instrução
 
@@ -9,6 +11,8 @@
 
 - Desempenho: ganho = T1 = N.K.t = N.K
   T1 = [K1(n-1)].t = K1(n-1)
+
+> ✏️ Reconstruído na nota refinada como: pipeline = (K + N − 1) × t; sequencial = N × K × t; speedup tende a K (nº de estágios).
 
 - Número típico de estágios é de 6 a 9
 
@@ -52,7 +56,3 @@
 Microprocessadores: Avanços em microeletrônica permitiram reduzir o tamanho dos componentes e encapsulá-los, tornando-os mais rápidos, menores, mais eficientes energeticamente, mais eficientes na dissipação de calor, mais robustos a condições ambientais (não sai sujeira).
 
 RISC: (Reduced Instruction Set Computer)
-
----
-
-A imagem mostra uma página preta com um padrão de pontos brancos distribuídos uniformemente. Não há texto, gráficos ou outros elementos visíveis na página.
