@@ -15,7 +15,7 @@ matéria: Arquitetura de Computadores
 
 > [!abstract] Notas atômicas — uma ideia por nota
 
-- [[Pipeline]] — busca, decodificação, execução em estágios
+- [[6 - Notas principais/Pipeline|Pipeline]] — busca, decodificação, execução em estágios
 - [[Hazards do pipeline]] — estruturais, de dados e de controle
 - [[Forwarding]] — encaminhamento de resultado entre estágios
 - [[Branch prediction]] — previsão de desvio
@@ -31,7 +31,7 @@ matéria: Arquitetura de Computadores
 - [[Introdução]] — AULA 1
 - [[Branch desvio]] — AULA 2 (tema: [[Branch prediction]])
 - [[Risc X Cisc]] — AULA 3 (tema: [[RISC × CISC]])
-- [[Pipeline]] — Pipeline (tema: [[Pipeline]])
+- [[2 - Referências/Aula Bruta/Pipeline]] — Pipeline (tema: [[2 - Referências/Aula Bruta/Pipeline]])
 
 ---
 
