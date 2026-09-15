@@ -69,6 +69,12 @@ CISC usa instruções complexas com alto poder semântico; RISC simplifica o con
 - Mais esforço/tempo de compilação (o compilador faz o trabalho que o hardware não faz)
 - **NoOp** (No Operation) = instrução que não faz nada, funciona como um "stall de software"
 
+### Otimização hardware × software
+- **Hardware:** mais registradores
+- **Software:** compilador aloca registradores — abordagem de **coloração de grafos**; variáveis globais podem permanecer em registradores
+- Pipelining RISC: instruções de registrador para registrador, em 5 estágios (IF, ID, EX, MEM, WB) — ver [[Pipeline]]
+- **Hotness:** o uso de cache em tempo de execução mantém os dados "quentes" (frequentemente acessados) no cache
+
 ### Microprocessadores (contexto)
 - A microeletrônica reduziu e encapsulou os componentes: mais rápidos, menores, mais eficientes energeticamente e na dissipação de calor, mais robustos a condições ambientais
 
@@ -76,6 +82,7 @@ CISC usa instruções complexas com alto poder semântico; RISC simplifica o con
 - [[Pipeline]] — simplificação RISC: pipeline cuidadoso
 - [[Branch desvio]] — branch prediction e NoOp como stall
 - [[Introdução]] — arquitetura vs organização e a indústria de software
+- [[Superescalares]] — evolução do RISC: múltiplas pipelines em paralelo
 
 ## Ação
 

@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Notas brutas/RISC Superescalares.md",
+                "file": "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC - Organização e Arquitetura de Computadores"
+            }
+          },
+          {
+            "id": "6fa68e7e547fe82d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Notas principais/Superescalares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Superescalares"
+            }
+          },
+          {
+            "id": "7d508bd02bffe3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Referências/Aula Bruta/RISC Superescalares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "RISC Superescalares"
+            }
+          },
+          {
+            "id": "4b9228342aaf7cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Notas principais/Risc X Cisc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Risc X Cisc"
             }
           },
           {
@@ -49,7 +91,8 @@
               "title": "Nuvem vs Autohospedagem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Notas brutas/RISC Superescalares.md",
+                "file": "6 - Notas principais/Superescalares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Notas brutas/RISC Superescalares.md",
+                "file": "6 - Notas principais/Superescalares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -209,7 +252,7 @@
             }
           },
           {
-            "id": "0b3fc04ed7cd3e9c",
+            "id": "01c2b733ec737c98",
             "type": "leaf",
             "state": {
               "type": "opencode-terminal",
@@ -223,7 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 642.22265625
+    "width": 953.65234375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,9 +287,12 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "0b3fc04ed7cd3e9c",
+  "active": "01c2b733ec737c98",
   "lastOpenFiles": [
     "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
+    "6 - Notas principais/Superescalares.md",
+    "2 - Referências/Aula Bruta/RISC Superescalares.md",
+    "6 - Notas principais/Risc X Cisc.md",
     "1 - Notas brutas/RISC Superescalares.md",
     "6 - Notas principais/Conceitos-chave.md",
     "6 - Notas principais/Nuvem vs Autohospedagem.md",
@@ -256,7 +302,6 @@
     "6 - Notas principais/Pipeline.md",
     "6 - Notas principais/As lições do livro.md",
     "2 - Referências/Livros/Flow.md",
-    "6 - Notas principais/Risc X Cisc.md",
     "1 - Notas brutas/Risc X Cisc.md",
     "2 - Referências/Aula Bruta/Risc X Cisc.md",
     "2 - Referências/Aula Bruta/Branch desvio.md",
@@ -271,8 +316,6 @@
     "6 - Notas principais/Aprender a aprender.md",
     "Pipelines_RISCV.md",
     "1 - Notas brutas/Untitled 6.png.md",
-    "5 - Templates/Nota Principal.md",
-    "5 - Templates/Template estudos.md",
     "Excalidraw",
     "Untitled.canvas",
     "1 - Notas brutas/22swisher-articleLarge.jpg",

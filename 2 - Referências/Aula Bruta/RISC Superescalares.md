@@ -1,5 +1,7 @@
 # RISC / Superescalares
 
+> Notas refinadas em: [[Risc X Cisc]] (parte RISC) e [[Superescalares]] (parte superescalar)
+
 - Simplicidade do Hardware, otimizado entre Hardware e software
 - Muito mais registradores
 - Instruções menores e mais simples
@@ -15,7 +17,8 @@
 
 Como ter mais desempenho? Aumentar a vazão
 Instruções são de registrador para registrador
-(insira aqui as fases do pipeline) [OpenCode]
+
+> ✏️ Fases do pipeline (preenchido): IF (busca), ID (decodificação), EX (execução), MEM (acesso à memória), WB (writeback) — ver [[Pipeline]]
 
 Não é todo dia que uma otimização melhora 100% do processo, como faz o pipeline.
 
@@ -25,8 +28,6 @@ Máquina de OAC I, não tem pipeline, não tem sobreposição
 ---
 
 ## Superescalares
-
-[Open Code, crie uma nova nota a partir daqui)
 
 - Instruções usuais, load, store, desvio, são independentes e podem ser executadas simultaneamente.
 - Aplicável a CISC, RISC
@@ -38,7 +39,7 @@ Todo programa tem um potencial de paralelismo.
 O que é Superescalares?
 - Se chama assim porque é usado sobre grandezas escalares
 
-Superescalares X SuperPipelino (Faz uma tabela aqui)
+> ✏️ Superescalares × Superpipeline (tabela preenchida na nota [[Superescalares#Conteúdo]])
 
 - 2 pipelines em paralelo
 - Pipeline "normal"
@@ -83,7 +84,3 @@ O computador consegue a execução de mais instruções de forma independente
 ### Dependência de saída
 - Quando uma instrução depende de outra, mas a ordem de execução é alterada.
 - Dependendo da ordem dos escritos, pode dar problema.
-
----
-
-A imagem mostra uma página preta com um padrão de pontos brancos distribuídos uniformemente. Não há texto, gráficos ou outros elementos visíveis na página.

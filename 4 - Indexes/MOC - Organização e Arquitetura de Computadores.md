@@ -25,6 +25,7 @@ Siga a ordem para construir o conhecimento incrementalmente. Cada nota aponta pa
 | 2   | [[Pipeline]]      | Sobreposição de estágios, hazards e soluções (forwarding, previsão) | [[Pipeline#Ação\|7 cards]]      |     |
 | 3   | [[Branch desvio]] | Hazard de controle aprofundado: mitigações, loop buffer, previsão   | [[Branch desvio#Ação\|7 cards]] |     |
 | 4   | [[Risc X Cisc]]   | CISC vs RISC: janelas de registradores, hardware puro, NoOp         | [[Risc X Cisc#Ação\|7 cards]]   |     |
+| 5   | [[Superescalares]] | Execução paralela de instruções independentes (ILP)               | [[Superescalares#Ação\|7 cards]] |     |
 
 ---
 
@@ -44,6 +45,11 @@ Introdução
 └── Risc X Cisc
     ├── CISC → UC microprogramada
     └── RISC → registradores, pipeline, NoOp
+        └── Superescalares
+            ├── 2+ pipelines em paralelo
+            ├── ILP (paralelismo no nível de instrução)
+            ├── Dependência de saída / antidependência
+            └── Política de iniciação (ordem/f.d.ordem)
 ```
 
 ---
@@ -55,6 +61,7 @@ Introdução
 - [[Pipeline]] usa branch prediction como solução → [[Branch desvio]] é o aprofundamento
 - [[Risc X Cisc]] assume pipeline e branch prediction como pressupostos → [[Pipeline]] e [[Branch desvio]] são pré-requisitos
 - [[Risc X Cisc]] contrasta com o conceito de arquitetura/organização de [[Introdução]]
+- [[Superescalares]] estende [[Pipeline]] (2+ pipelines) e [[Risc X Cisc]] (mais comum em RISC), limitado pelos hazards de [[Branch desvio]]
 
 ---
 
@@ -68,6 +75,7 @@ Introdução
 | AULA 2 | [[2 - Referências/Aula Bruta/Branch desvio\|Branch desvio]] | [[Branch desvio]] |
 | AULA 3 | [[2 - Referências/Aula Bruta/Risc X Cisc\|Risc X Cisc]] | [[Risc X Cisc]] |
 | Pipeline | [[2 - Referências/Aula Bruta/Pipeline\|Pipeline]] | [[Pipeline]] |
+| AULA 4 | [[2 - Referências/Aula Bruta/RISC Superescalares\|RISC Superescalares]] | [[Risc X Cisc]] + [[Superescalares]] |
 
 ---
 
@@ -75,4 +83,4 @@ Introdução
 
 - [ ] Criar nota [[Cache e invalidação de hardware]] —_loop buffer e cache de instruções (conceito de hardware vs o Redis da nota existente)
 - [ ] Revisar `[[Introdução]]`: pendência de estudo "organização do processador e unidade de controle"
-- [ ] Sincronizar cards do baralho OAC II (28 cards: 4 × 7)
+- [ ] Sincronizar cards do baralho OAC II (35 cards: 5 × 7)
