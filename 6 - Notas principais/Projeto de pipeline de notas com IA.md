@@ -53,13 +53,28 @@ Este projeto consiste basicamente numa pipeline que pega um arquivo PDF escrito 
 ### Decisão
 - Formato de saída: **transcrição crua** (bruto num primeiro momento; refinar depois)
 
+## Convenções de processamento
+
+Fluxo completo de uma nota, do bruto ao estudo (manual, feito com a skill `anki-generator`):
+
+1. **Refino direto no formato final** — a bruta vira nota principal (`6 - Notas principais/`) em um só passo, seguindo o template [[Nota Principal]]: Resumo → Conteúdo → Conexões → Ação → Referências
+2. **Cards na seção Ação** — flashcards do Anki no baralho da matéria (`cards-deck: OAC II`); 3 a 7 cards atômicos; IDs `^q-...` do plugin preservados ao mover notas
+3. **Arquivar a bruta** — `1 - Notas brutas/` → `2 - Referências/Aula Bruta/`, conteúdo sem cards, com `> Nota refinada em: [[Nota]]` no topo
+4. **Atualizar o MOC** — adicionar o tópico na tabela de fluxo do MOC da matéria (`4 - Indexes/`)
+5. **Status como fila de revisão** — `status: rascunho` na criação; trocar para `revisado` quando revisar
+
+Regras derivadas da prática:
+- Cards vivem na nota principal; Aula Bruta é arquivo puro (sem cards, sem `flashcards:` no YAML)
+- Remover da bruta: notas de margem, avisos de aula/prova, descrições de imagem vazias
+- Corrigir erros técnicos da transcrição (ex: fórmula de Amdahl) e sinalizar com callout na Aula Bruta
+
 ## Conexões
 [[Projetos]]
 
 ## Ação
 ---
 - [x] Criar uma nota no Samsung notes e compartilhar automaticamente com o PC
-- [ ] Criar um script em python que pega automaticamente as notas que foram adicionadas, lê as mesmas, e gera um arquivo markdown, adicionando eles na pasta do obsidian
+- [x] Criar um script em python que pega automaticamente as notas que foram adicionadas, lê as mesmas, e gera um arquivo markdown, adicionando eles na pasta do obsidian
 
 
 # Referências
