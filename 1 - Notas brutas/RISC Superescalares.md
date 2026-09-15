@@ -15,7 +15,7 @@
 
 Como ter mais desempenho? Aumentar a vazão
 Instruções são de registrador para registrador
-(mais aqui ao mais do pipeline) [OpenCook]
+(insira aqui as fases do pipeline) [OpenCode]
 
 Não é todo dia que uma otimização melhora 100% do processo, como faz o pipeline.
 

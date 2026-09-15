@@ -111,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.83984375
+    "width": 276.625
   },
   "right": {
     "id": "0ab1b155105a12ac",
@@ -207,14 +207,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "0b3fc04ed7cd3e9c",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-terminal",
+              "state": {},
+              "icon": "terminal",
+              "title": "Opencode"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 642.22265625,
-    "collapsed": true
+    "width": 642.22265625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,7 +244,7 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0b3fc04ed7cd3e9c",
   "lastOpenFiles": [
     "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
     "1 - Notas brutas/RISC Superescalares.md",
