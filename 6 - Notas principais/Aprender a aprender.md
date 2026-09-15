@@ -186,7 +186,6 @@ Não é necessário mudar velhos hábitos, mas sim anular algumas partes deles e
 
 - Faça a tarefa mais chata logo que acordar
 
-![[1 - Notas brutas/Untitled 6.png|Untitled 6.png]]
 
 ## Memória
 

@@ -3,26 +3,29 @@ date: "{{date}}"
 time: "{{time}}"
 tags: []
 status: rascunho
-source: 
-matéria: 
+source:
+matéria:
 aliases: []
+cards-deck:
 ---
 
 # {{Title}}
 
 ## Resumo
-<!-- 2-3 frases: o que esta nota é sobre e por que existe -->
+<!-- Síntese em 2 a 3 frases: o que é, para que serve e a conclusão principal -->
 
 ## Conteúdo
-
+<!-- Explicação estruturada, listas com marcadores, fórmulas, tabelas ou código -->
 
 ## Conexões
-<!-- Que outras notas se conectam aqui? Use [[]] -->
+<!-- Links bidirecionais [[Nota Relacionada]] com outros tópicos do vault -->
+
 
 ## Ação
-<!-- O que fazer com isso? Próximos passos concretos -->
+<!-- Substitui ou cumpre o papel de "Ação": testes atômicos para o Anki -->
 
 ---
 
 # Referências
 <!-- Aula-fonte do pipeline: [[AULA X - ...]] ou URL externa em source: -->
+<!-- Livro, aula, slide, documentação ou paper de origem -->
