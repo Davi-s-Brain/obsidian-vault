@@ -15,6 +15,7 @@ matéria: Arquitetura de Computadores
 
 > [!abstract] Notas atômicas — uma ideia por nota
 
+- [[6 - Notas principais/Introdução|introdução]] - introdução da matéria
 - [[6 - Notas principais/Pipeline|Pipeline]] — busca, decodificação, execução em estágios
 - [[Hazards do pipeline]] — estruturais, de dados e de controle
 - [[Forwarding]] — encaminhamento de resultado entre estágios

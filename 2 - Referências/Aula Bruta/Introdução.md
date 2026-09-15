@@ -1,17 +1,14 @@
 # Introdução
 
+> Nota refinada em: [[Introdução]]
+
 - Máquina base: 1 núcleo, busca e executa instruções
 
 ## Processador
 
 - Busca, executa e processa dados e instruções
 - Trabalho: Prova
-
-Média dimal: 0,3 * MT + 0,7 * MR
-
-5 no mínimo nos dois
-
-- Revisar Organização do processador e Unidade de controle
+- Pendente: revisar Organização do processador e Unidade de controle
 
 ## Organização
 
@@ -62,6 +59,8 @@ Lo ganho = Tem que ser maior que 1, aí a mudança é válida.
 
 Speedup = 1 / (1 - Fraction_enhanced) + Fraction_enhanced / Speed_up_enhanced
 
+> ✏️ Fórmula corrigida na nota refinada: Speedup = 1 / ((1 − F) + F / S) — o denominador é inteiro; exemplo correto dá 1,56 (não 1,66).
+
 ### Exemplo de Amdahl
 
 Considera uma melhoria que roda 10 vezes mais rápido do que a máquina original, mas só pode ser utilizada 40% do tempo. Qual o Speedup?
@@ -102,7 +101,3 @@ No mundo real, o tempo de execução é maior que o de busca. Ainda tem um monte
 - Busca operandos
 - Executa instrução
 - Escreve resultado
-
----
-
-A imagem mostra uma página preta com um padrão de pontos brancos distribuídos uniformemente. Não há texto, gráficos ou outros elementos visíveis na página.

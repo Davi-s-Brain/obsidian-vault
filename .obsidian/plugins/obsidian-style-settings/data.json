@@ -4,5 +4,18 @@
   "encore-settings@@theme-light": "encore-theme-light",
   "encore-settings@@colors": "encore-colors-colorful",
   "encore-settings@@encore-translucency-strength": 0.3,
-  "encore-settings@@encore-translucency-blur-amount": 6
+  "encore-settings@@encore-translucency-blur-amount": 6,
+  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-mobile-oled-mode": false,
+  "encore-settings@@encore-mobile-translucency": false,
+  "encore-settings@@encore-disable-clickability-fix": false,
+  "obsidian-transparent@@preset-mode": "preset-orange",
+  "obsidian-transparent@@gradient-angle": 155,
+  "obsidian-transparent@@bg-tint-color": "#F37A3A",
+  "obsidian-transparent@@bg-tint-opacity": 0.06,
+  "obsidian-transparent@@show-scrollbars": true,
+  "obsidian-transparent@@hide-canvas-dots": false,
+  "obsidian-transparent@@accent-everywhere": false,
+  "obsidian-transparent@@default-sync-error": false,
+  "obsidian-transparent@@obsidian-classic-tree": false
 }
