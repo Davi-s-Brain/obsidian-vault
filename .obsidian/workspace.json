@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "17696793d3f340f6",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "2cecca3444f56ef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,63 +22,19 @@
             }
           },
           {
-            "id": "6fa68e7e547fe82d",
+            "id": "3e200e0bc967d44d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "6 - Notas principais/Superescalares.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-09-15 20.15.31.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Superescalares"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-09-15 20.15.31.excalidraw"
             }
           },
           {
-            "id": "7d508bd02bffe3d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Referências/Aula Bruta/RISC Superescalares.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RISC Superescalares"
-            }
-          },
-          {
-            "id": "4b9228342aaf7cc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Notas principais/Risc X Cisc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Risc X Cisc"
-            }
-          },
-          {
-            "id": "243df98f0551bbd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Notas principais/Conceitos-chave.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conceitos-chave"
-            }
-          },
-          {
-            "id": "a0e05c36d3cc42ca",
+            "id": "7602a3e3b89ae213",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Notas principais/Superescalares.md",
+                "file": "Excalidraw/Drawing 2026-09-15 20.15.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Notas principais/Superescalares.md",
+                "file": "Excalidraw/Drawing 2026-09-15 20.15.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -250,23 +206,14 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "01c2b733ec737c98",
-            "type": "leaf",
-            "state": {
-              "type": "opencode-terminal",
-              "state": {},
-              "icon": "terminal",
-              "title": "Opencode"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 953.65234375
+    "width": 953.65234375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,17 +234,25 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "01c2b733ec737c98",
+  "active": "3e200e0bc967d44d",
   "lastOpenFiles": [
+    "Excalidraw/Libraries/local-library.excalidrawlib",
+    "Excalidraw/Libraries",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/Drawing 2026-09-15 20.15.31.excalidraw.md",
     "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
     "6 - Notas principais/Superescalares.md",
+    "6 - Notas principais/Nuvem vs Autohospedagem.md",
+    "6 - Notas principais/Conceitos-chave.md",
+    "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
+    "6 - Notas principais/Melhores práticas.md",
+    "4 - Indexes/MOC.md",
+    "6 - Notas principais/Projetos.md",
     "2 - Referências/Aula Bruta/RISC Superescalares.md",
+    "5 - Templates/Nota Principal.md",
+    "6 - Notas principais/Projeto de pipeline de notas com IA.md",
     "6 - Notas principais/Risc X Cisc.md",
     "1 - Notas brutas/RISC Superescalares.md",
-    "6 - Notas principais/Conceitos-chave.md",
-    "6 - Notas principais/Nuvem vs Autohospedagem.md",
-    "2 - Referências/Livros/Projetando aplicações com uso intensivo de dados.md",
-    "6 - Notas principais/Projeto de pipeline de notas com IA.md",
     "6 - Notas principais/Branch desvio.md",
     "6 - Notas principais/Pipeline.md",
     "6 - Notas principais/As lições do livro.md",
@@ -308,14 +263,7 @@
     "1 - Notas brutas/Branch desvio.md",
     "6 - Notas principais/Introdução.md",
     "1 - Notas brutas/Introdução.md",
-    "2 - Referências/Aula Bruta/Introdução.md",
-    "6 - Notas principais/Escalabilidade.md",
-    "4 - Indexes/MOC.md",
-    "2 - Referências/Aula Bruta/Pipeline.md",
     "2 - Referências/Aula Bruta",
-    "6 - Notas principais/Aprender a aprender.md",
-    "Pipelines_RISCV.md",
-    "1 - Notas brutas/Untitled 6.png.md",
     "Excalidraw",
     "Untitled.canvas",
     "1 - Notas brutas/22swisher-articleLarge.jpg",
@@ -334,7 +282,6 @@
     "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Administrative Asks/Successful Emails",
     "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Administrative Asks/Unsuccessful Emails",
     "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Administrative Asks",
-    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Recruitment Emails",
-    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Finances/Spending History/2022 Finances"
+    "Notion/Export-9a1d59a1-36b9-4124-a691-be88c42ed80d/Davi Batista/Arquivados/Neni Estudos Símios/Debate club/Finance & sponsorships/Email Templates/Recruitment Emails"
   ]
 }

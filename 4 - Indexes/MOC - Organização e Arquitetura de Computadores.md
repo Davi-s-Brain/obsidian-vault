@@ -69,13 +69,13 @@ Introdução
 
 > [!example] Origens das notas — rascunhos preservados em `2 - Referências/Aula Bruta/`
 
-| Aula | Nota bruta | Nota principal |
-|------|-----------|----------------|
-| AULA 1 | [[2 - Referências/Aula Bruta/Introdução\|Introdução]] | [[Introdução]] |
-| AULA 2 | [[2 - Referências/Aula Bruta/Branch desvio\|Branch desvio]] | [[Branch desvio]] |
-| AULA 3 | [[2 - Referências/Aula Bruta/Risc X Cisc\|Risc X Cisc]] | [[Risc X Cisc]] |
-| Pipeline | [[2 - Referências/Aula Bruta/Pipeline\|Pipeline]] | [[Pipeline]] |
-| AULA 4 | [[2 - Referências/Aula Bruta/RISC Superescalares\|RISC Superescalares]] | [[Risc X Cisc]] + [[Superescalares]] |
+| Aula     | Nota bruta                                                              | Nota principal                       |
+| -------- | ----------------------------------------------------------------------- | ------------------------------------ |
+| AULA 1   | [[2 - Referências/Aula Bruta/Introdução\|Introdução]]                   | [[Introdução]]                       |
+| AULA 2   | [[2 - Referências/Aula Bruta/Branch desvio\|Branch desvio]]             | [[Branch desvio]]                    |
+| AULA 3   | [[2 - Referências/Aula Bruta/Risc X Cisc\|Risc X Cisc]]                 | [[Risc X Cisc]]                      |
+| Pipeline | [[2 - Referências/Aula Bruta/Pipeline\|Pipeline]]                       | [[Pipeline]]                         |
+| AULA 4   | [[2 - Referências/Aula Bruta/RISC Superescalares\|RISC Superescalares]] | [[Risc X Cisc]] + [[Superescalares]] |
 
 ---
 
