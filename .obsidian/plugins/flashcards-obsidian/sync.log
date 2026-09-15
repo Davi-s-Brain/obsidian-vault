@@ -3,3 +3,23 @@
 2026-09-15T12:23:12.796Z [WARN] Anki unavailable {"launchCommand":"anki","waitSeconds":60}
 2026-09-15T12:24:37.103Z [WARN] Anki unavailable {"launchCommand":"anki","waitSeconds":60}
 2026-09-15T12:26:29.743Z [WARN] Anki unavailable {"launchCommand":"anki","waitSeconds":60}
+2026-09-15T12:33:33.548Z [INFO] syncNote start {"notePath":"6 - Notas principais/Teste Anki.md"}
+2026-09-15T12:33:33.562Z [INFO] bootstrap: creating missing model {"model":"Obsidian-basic"}
+2026-09-15T12:33:33.576Z [INFO] bootstrap: creating missing model {"model":"Obsidian-basic-reversed"}
+2026-09-15T12:33:33.599Z [INFO] bootstrap: creating missing model {"model":"Obsidian-cloze"}
+2026-09-15T12:33:33.624Z [INFO] bootstrap: creating missing model {"model":"Obsidian-reminder"}
+2026-09-15T12:33:33.729Z [INFO] syncNote ok {"notePath":"6 - Notas principais/Teste Anki.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-09-15T12:39:03.498Z [INFO] syncNote start {"notePath":"Card test.md"}
+2026-09-15T12:39:03.557Z [INFO] syncNote ok {"notePath":"Card test.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-09-15T12:42:23.198Z [INFO] syncNote start {"notePath":"Card test.md"}
+2026-09-15T12:42:23.209Z [INFO] syncNote pending deletion {"notePath":"Card test.md","blockId":"q-fbqj","nid":1789475943547,"deckName":"OAC II"}
+2026-09-15T12:42:26.776Z [WARN] CREATE failed {"blockId":"q-6i64","error":"cannot create note because it is a duplicate"}
+2026-09-15T12:42:26.827Z [INFO] syncNote ok {"notePath":"Card test.md","okCreates":1,"okUpdates":0,"okDeletes":1,"failedOps":1}
+2026-09-15T12:44:39.198Z [INFO] syncNote start {"notePath":"Card test.md"}
+2026-09-15T12:44:41.628Z [INFO] syncNote ok {"notePath":"Card test.md","okCreates":1,"okUpdates":1,"okDeletes":0,"failedOps":0}
+2026-09-15T12:46:30.873Z [INFO] syncNote start {"notePath":"Card test.md"}
+2026-09-15T12:46:30.980Z [INFO] syncNote ok {"notePath":"Card test.md","okCreates":2,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-09-15T12:47:36.248Z [INFO] syncNote start {"notePath":"Card test.md"}
+2026-09-15T12:47:36.257Z [INFO] syncNote pending deletion {"notePath":"Card test.md","blockId":"q-6i64","nid":1789476390947,"deckName":"OAC II"}
+2026-09-15T12:47:36.257Z [INFO] syncNote pending deletion {"notePath":"Card test.md","blockId":"q-k65r","nid":1789476390973,"deckName":"OAC II"}
+2026-09-15T12:47:39.651Z [INFO] syncNote ok {"notePath":"Card test.md","okCreates":2,"okUpdates":0,"okDeletes":2,"failedOps":0}
