@@ -19,13 +19,13 @@ cards-deck: OAC II
 
 Siga a ordem para construir o conhecimento incrementalmente. Cada nota aponta para a que veio antes e a que vem depois.
 
-| #   | Tópico            | Resumo                                                              | Cards                           |     |
-| --- | ----------------- | ------------------------------------------------------------------- | ------------------------------- | --- |
-| 1   | [[Introdução]]    | Arquitetura vs organização, ciclo de instrução, Lei de Amdahl       | [[Introdução#Ação\|7 cards]]    |     |
-| 2   | [[Pipeline]]      | Sobreposição de estágios, hazards e soluções (forwarding, previsão) | [[Pipeline#Ação\|7 cards]]      |     |
-| 3   | [[Branch desvio]] | Hazard de controle aprofundado: mitigações, loop buffer, previsão   | [[Branch desvio#Ação\|7 cards]] |     |
-| 4   | [[Risc X Cisc]]   | CISC vs RISC: janelas de registradores, hardware puro, NoOp         | [[Risc X Cisc#Ação\|7 cards]]   |     |
-| 5   | [[Superescalares]] | Execução paralela de instruções independentes (ILP)               | [[Superescalares#Ação\|7 cards]] |     |
+| #   | Tópico             | Resumo                                                              | Cards                            |     |
+| --- | ------------------ | ------------------------------------------------------------------- | -------------------------------- | --- |
+| 1   | [[Introdução]]     | Arquitetura vs organização, ciclo de instrução, Lei de Amdahl       | [[Introdução#Ação\|7 cards]]     |     |
+| 2   | [[Pipeline]]       | Sobreposição de estágios, hazards e soluções (forwarding, previsão) | [[Pipeline#Ação\|7 cards]]       |     |
+| 3   | [[Branch desvio]]  | Hazard de controle aprofundado: mitigações, loop buffer, previsão   | [[Branch desvio#Ação\|7 cards]]  |     |
+| 4   | [[Risc X Cisc]]    | CISC vs RISC: janelas de registradores, hardware puro, NoOp         | [[Risc X Cisc#Ação\|7 cards]]    |     |
+| 5   | [[Superescalares]] | Execução paralela de instruções independentes (ILP)                 | [[Superescalares#Ação\|7 cards]] |     |
 
 ---
 
