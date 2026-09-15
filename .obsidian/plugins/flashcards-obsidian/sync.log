@@ -23,3 +23,11 @@
 2026-09-15T12:47:36.257Z [INFO] syncNote pending deletion {"notePath":"Card test.md","blockId":"q-6i64","nid":1789476390947,"deckName":"OAC II"}
 2026-09-15T12:47:36.257Z [INFO] syncNote pending deletion {"notePath":"Card test.md","blockId":"q-k65r","nid":1789476390973,"deckName":"OAC II"}
 2026-09-15T12:47:39.651Z [INFO] syncNote ok {"notePath":"Card test.md","okCreates":2,"okUpdates":0,"okDeletes":2,"failedOps":0}
+2026-09-15T12:48:07.524Z [INFO] syncNote start {"notePath":"Card test.md"}
+2026-09-15T12:48:07.575Z [INFO] syncNote pending deletion {"notePath":"Card test.md","blockId":"q-yhfw","nid":1789476459572,"deckName":"OAC II"}
+2026-09-15T12:48:09.253Z [INFO] syncNote ok {"notePath":"Card test.md","okCreates":0,"okUpdates":2,"okDeletes":1,"failedOps":0}
+2026-09-15T12:48:57.098Z [INFO] syncNote start {"notePath":"Card test.md"}
+2026-09-15T12:48:57.107Z [INFO] syncNote pending deletion {"notePath":"Card test.md","blockId":"q-tvy3","nid":1789476459597,"deckName":"OAC II"}
+2026-09-15T12:49:00.127Z [INFO] syncNote ok {"notePath":"Card test.md","okCreates":2,"okUpdates":0,"okDeletes":1,"failedOps":0}
+2026-09-15T12:58:25.073Z [INFO] syncNote start {"notePath":"Pipelines_RISCV.md"}
+2026-09-15T12:58:25.305Z [INFO] syncNote ok {"notePath":"Pipelines_RISCV.md","okCreates":7,"okUpdates":0,"okDeletes":0,"failedOps":0}
