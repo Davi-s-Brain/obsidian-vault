@@ -1,2 +1,5 @@
 2026-09-15T12:08:16.099Z [INFO] plugin loaded {"version":"2.1.1"}
 2026-09-15T12:16:38.855Z [WARN] Anki unavailable {"launchCommand":"anki","waitSeconds":60}
+2026-09-15T12:23:12.796Z [WARN] Anki unavailable {"launchCommand":"anki","waitSeconds":60}
+2026-09-15T12:24:37.103Z [WARN] Anki unavailable {"launchCommand":"anki","waitSeconds":60}
+2026-09-15T12:26:29.743Z [WARN] Anki unavailable {"launchCommand":"anki","waitSeconds":60}

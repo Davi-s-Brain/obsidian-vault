@@ -204,23 +204,14 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "9543dbbc73b1bfdb",
-            "type": "leaf",
-            "state": {
-              "type": "opencode-terminal",
-              "state": {},
-              "icon": "terminal",
-              "title": "Opencode"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 817.5078125
+    "width": 817.5078125,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,7 +232,7 @@
       "flashcards-obsidian:Update Anki from current note": false
     }
   },
-  "active": "9543dbbc73b1bfdb",
+  "active": "e64cf21f3d090a77",
   "lastOpenFiles": [
     "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
     "1 - Notas brutas/Pipeline.md",
