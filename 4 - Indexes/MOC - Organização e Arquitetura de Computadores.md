@@ -3,45 +3,76 @@ tags:
   - index
   - moc
 date: 2026-09-10
+atualizado: 2026-09-15
 matéria: OAC II
+cards-deck: OAC II
 ---
 
-# Arquitetura de Computadores
+# Organização e Arquitetura de Computadores — OAC II
 
 > [!info] MOC
-> Mapa de conteúdo da matéria. Conceitos viram notas atômicas em `6 - Notas principais/`; aulas-fonte são as transcrições do pipeline.
+> Mapa de estudo da matéria. Cada nota é um tópico atômico com conteúdo, flashcards (baralho `OAC II`) e links internos.
 
 ---
 
-## Conceitos
+## Fluxo de estudo
 
-> [!abstract] Notas atômicas — uma ideia por nota
+Siga a ordem para construir o conhecimento incrementalmente. Cada nota aponta para a que veio antes e a que vem depois.
 
-- [[6 - Notas principais/Introdução|introdução]] - introdução da matéria
-- [[6 - Notas principais/Pipeline|Pipeline]] — busca, decodificação, execução em estágios
-- [[Hazards do pipeline]] — estruturais, de dados e de controle
-- [[Forwarding]] — encaminhamento de resultado entre estágios
-- [[Branch prediction]] — previsão de desvio
-- [[RISC × CISC]] — filosofias de ISA
-- [[Unidade de controle]] — firmware + hardware
+| #   | Tópico            | Resumo                                                              | Cards                           |     |
+| --- | ----------------- | ------------------------------------------------------------------- | ------------------------------- | --- |
+| 1   | [[Introdução]]    | Arquitetura vs organização, ciclo de instrução, Lei de Amdahl       | [[Introdução#Ação\|7 cards]]    |     |
+| 2   | [[Pipeline]]      | Sobreposição de estágios, hazards e soluções (forwarding, previsão) | [[Pipeline#Ação\|7 cards]]      |     |
+| 3   | [[Branch desvio]] | Hazard de controle aprofundado: mitigações, loop buffer, previsão   | [[Branch desvio#Ação\|7 cards]] |     |
+| 4   | [[Risc X Cisc]]   | CISC vs RISC: janelas de registradores, hardware puro, NoOp         | [[Risc X Cisc#Ação\|7 cards]]   |     |
 
 ---
 
-## Aulas-fonte
+## Mapa conceitual
 
-> [!example] Transcrições brutas (origem do pipeline)
+```
+Introdução
+├── Ciclo de instrução / desempenho
+└── Pipeline
+    ├── Hazards estruturais
+    ├── Hazards de dados → Forwarding
+    └── Hazards de controle → Branch desvio
+                            ├── Múltiplos fluxos
+                            ├── Busca antecipada
+                            ├── Previsão (nunca/sempre)
+                            └── Loop buffer
+└── Risc X Cisc
+    ├── CISC → UC microprogramada
+    └── RISC → registradores, pipeline, NoOp
+```
 
-- [[Introdução]] — AULA 1
-- [[Branch desvio]] — AULA 2 (tema: [[Branch prediction]])
-- [[Risc X Cisc]] — AULA 3 (tema: [[RISC × CISC]])
-- [[2 - Referências/Aula Bruta/Pipeline]] — Pipeline (tema: [[2 - Referências/Aula Bruta/Pipeline]])
+---
+
+## Conexões entre notas
+
+- [[Introdução]] introduz o ciclo de instrução → [[Pipeline]] sobrepe os estágios
+- [[Pipeline]] define o hazard de controle → [[Branch desvio]] detalha mitigações
+- [[Pipeline]] usa branch prediction como solução → [[Branch desvio]] é o aprofundamento
+- [[Risc X Cisc]] assume pipeline e branch prediction como pressupostos → [[Pipeline]] e [[Branch desvio]] são pré-requisitos
+- [[Risc X Cisc]] contrasta com o conceito de arquitetura/organização de [[Introdução]]
+
+---
+
+## Aulas-fonte (arquivo bruto)
+
+> [!example] Origens das notas — rascunhos preservados em `2 - Referências/Aula Bruta/`
+
+| Aula | Nota bruta | Nota principal |
+|------|-----------|----------------|
+| AULA 1 | [[2 - Referências/Aula Bruta/Introdução\|Introdução]] | [[Introdução]] |
+| AULA 2 | [[2 - Referências/Aula Bruta/Branch desvio\|Branch desvio]] | [[Branch desvio]] |
+| AULA 3 | [[2 - Referências/Aula Bruta/Risc X Cisc\|Risc X Cisc]] | [[Risc X Cisc]] |
+| Pipeline | [[2 - Referências/Aula Bruta/Pipeline\|Pipeline]] | [[Pipeline]] |
 
 ---
 
 ## Pendências
 
-> [!todo] Refinar durante a sessão de estudo
-
-- [ ] Criar nota atômica [[Hazards do pipeline]] a partir de [[Introdução]]
-- [ ] Criar [[Forwarding]] e [[Branch prediction]] a partir de [[Branch desvio]]
-- [ ] Criar [[RISC × CISC]] e [[Unidade de controle]] a partir de [[Risc X Cisc]]
+- [ ] Criar nota [[Cache e invalidação de hardware]] —_loop buffer e cache de instruções (conceito de hardware vs o Redis da nota existente)
+- [ ] Revisar `[[Introdução]]`: pendência de estudo "organização do processador e unidade de controle"
+- [ ] Sincronizar cards do baralho OAC II (28 cards: 4 × 7)
