@@ -33,3 +33,4 @@
 2026-09-15T12:58:25.305Z [INFO] syncNote ok {"notePath":"Pipelines_RISCV.md","okCreates":7,"okUpdates":0,"okDeletes":0,"failedOps":0}
 2026-09-15T13:15:18.848Z [INFO] syncNote start {"notePath":"1 - Notas brutas/Pipeline.md"}
 2026-09-15T13:15:19.159Z [INFO] syncNote ok {"notePath":"1 - Notas brutas/Pipeline.md","okCreates":10,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-09-15T14:02:58.470Z [INFO] plugin loaded {"version":"2.1.1"}
