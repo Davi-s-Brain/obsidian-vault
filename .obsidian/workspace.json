@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "b4ba1b2f05a494ed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Diagrama pipeline de notas.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Diagrama pipeline de notas"
-            }
-          },
-          {
             "id": "7602a3e3b89ae213",
             "type": "leaf",
             "state": {
@@ -47,7 +35,8 @@
               "title": "Nuvem vs Autohospedagem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
+                "file": "6 - Notas principais/Nuvem vs Autohospedagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
+                "file": "6 - Notas principais/Nuvem vs Autohospedagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -233,7 +222,7 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "2cecca3444f56ef3",
+  "active": "7602a3e3b89ae213",
   "lastOpenFiles": [
     "Excalidraw/Diagrama pipeline de notas.md",
     "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
