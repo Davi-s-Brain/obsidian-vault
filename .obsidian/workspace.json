@@ -47,8 +47,7 @@
               "title": "Nuvem vs Autohospedagem"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Diagrama pipeline de notas.md",
+                "file": "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Diagrama pipeline de notas.md",
+                "file": "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -234,10 +233,10 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "b4ba1b2f05a494ed",
+  "active": "2cecca3444f56ef3",
   "lastOpenFiles": [
-    "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
     "Excalidraw/Diagrama pipeline de notas.md",
+    "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
     "6 - Notas principais/Nuvem vs Autohospedagem.md",
     "6 - Notas principais/Projeto de pipeline de notas com IA.md",
     "6 - Notas principais/Superescalares.md",
