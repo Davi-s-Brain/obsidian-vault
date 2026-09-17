@@ -43,3 +43,4 @@
 2026-09-15T23:00:46.139Z [INFO] syncNote start {"notePath":"6 - Notas principais/Superescalares.md"}
 2026-09-15T23:00:46.401Z [INFO] syncNote ok {"notePath":"6 - Notas principais/Superescalares.md","okCreates":7,"okUpdates":0,"okDeletes":0,"failedOps":0}
 2026-09-16T01:52:13.951Z [INFO] plugin loaded {"version":"2.1.1"}
+2026-09-17T11:50:40.307Z [INFO] plugin loaded {"version":"2.1.1"}
