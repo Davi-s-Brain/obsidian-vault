@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Indexes/MOC.md",
+                "file": "6 - Notas principais/Superescalares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC"
+              "title": "Superescalares"
             }
           }
         ]
@@ -226,13 +226,13 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "44cb5a4402069703",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2 - Referências/Aula Bruta/Continuação Superescalares.md",
+    "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
     "4 - Indexes/MOC.md",
     "1 - Notas brutas/Continuação Superescalares.md",
+    "2 - Referências/Aula Bruta/Continuação Superescalares.md",
     "6 - Notas principais/Risc X Cisc.md",
-    "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
     "6 - Notas principais/Superescalares.md",
     "6 - Notas principais/Nuvem vs Autohospedagem.md",
     "6 - Notas principais/DataMasters - relação de documentos.md",
