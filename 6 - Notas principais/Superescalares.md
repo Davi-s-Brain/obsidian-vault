@@ -72,17 +72,27 @@ Não dá para jogar todas as instruções no pipeline de uma vez — causa muito
 ### Iniciação em ordem com terminação fora de ordem
 - Instruções iniciam em ordem, mas terminam fora de ordem
 - Melhora o desempenho com instruções de vários ciclos
-- Passo seguinte: iniciação fora de ordem
+- Introduz complexidade no tratamento de interrupções e dependências de saída
+- Próximo passo: iniciação fora de ordem
 
-### Dependência de saída
-- Gerada pela iniciação de novas instruções (fora de ordem)
-- Uma instrução depende de outra, mas a ordem de execução é alterada
-- Dependendo da ordem dos escritos (writeback), pode dar problema
+### Paralelismo de Hardware
+Para maximizar o ILP, o hardware utiliza:
+- **Duplicação de recursos:** Mais unidades funcionais para evitar conflitos.
+- **Iniciação fora de ordem:** Executa instruções assim que os operandos estão disponíveis.
+- **Renomeação de registradores:** Resolve dependências de saída (WAW) e anti-dependências (WAR).
+- **Janela de instruções:** Buffer (geralmente > 8 instruções) que permite ao processador buscar instruções independentes adiante no fluxo.
+
+### Predição de Desvio em Superescalares
+Devido ao alto custo de esvaziar múltiplas pipelines:
+- Técnicas estáticas são ineficientes; utilizam-se **técnicas dinâmicas e estatísticas**.
+- Busca de múltiplas instruções simultaneamente para alimentar as pipelines.
+- Implementação de mecanismos de confirmação (commit) para garantir que os resultados sejam aplicados na ordem correta, mesmo executados fora de ordem.
 
 ## Conexões
 - [[Pipeline]] — base: superescalar usa 2+ pipelines em paralelo
 - [[Risc X Cisc]] — mais comum em RISC; otimização hardware × software
 - [[Branch desvio]] — hazard de desvio limita o ILP
+- [[Superescalares#Paralelismo de Hardware]] — aprofundamento em janelas e renomeação
 
 ## Ação
 
@@ -106,6 +116,12 @@ O que significa iniciação em ordem com terminação fora de ordem?::Instruçõ
 
 Quais ordens o processador precisa conhecer na política de iniciação?::Ordem de busca, ordem de execução e ordem de atualização de registradores e memória.
 ^q-7gpe
+
+Para que serve a renomeação de registradores em superescalares?::Técnica para resolver dependências de saída (WAW) e anti-dependências (WAR) ao mapear registradores lógicos para físicos.
+
+Como a janela de instruções melhora o desempenho?::Permite que o processador busque instruções independentes mais adiante no código, aumentando a probabilidade de preencher as pipelines.
+
+Por que a predição de desvio dinâmica é essencial em superescalares?::Porque o custo de esvaziar múltiplas pipelines em um erro de predição é muito maior do que em uma pipeline única.
 
 ---
 

@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.625,
-    "collapsed": true
+    "width": 276.625
   },
   "right": {
     "id": "0ab1b155105a12ac",
@@ -190,14 +189,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "44cb5a4402069703",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-terminal",
+              "state": {},
+              "icon": "terminal",
+              "title": "Opencode"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 843.875,
-    "collapsed": true
+    "width": 843.875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,11 +226,13 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "44cb5a4402069703",
   "lastOpenFiles": [
+    "2 - Referências/Aula Bruta/Continuação Superescalares.md",
+    "4 - Indexes/MOC.md",
+    "1 - Notas brutas/Continuação Superescalares.md",
     "6 - Notas principais/Risc X Cisc.md",
     "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
-    "4 - Indexes/MOC.md",
     "6 - Notas principais/Superescalares.md",
     "6 - Notas principais/Nuvem vs Autohospedagem.md",
     "6 - Notas principais/DataMasters - relação de documentos.md",
@@ -247,8 +257,6 @@
     "2 - Referências/Aula Bruta/Risc X Cisc.md",
     "2 - Referências/Aula Bruta/Branch desvio.md",
     "1 - Notas brutas/Branch desvio.md",
-    "6 - Notas principais/Introdução.md",
-    "1 - Notas brutas/Introdução.md",
     "2 - Referências/Aula Bruta",
     "Excalidraw",
     "1 - Notas brutas/22swisher-articleLarge.jpg",
