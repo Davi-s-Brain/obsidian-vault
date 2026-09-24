@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "4 - Indexes/MOC.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Diagrama do pix.md"
               },
-              "icon": "lucide-file",
-              "title": "MOC"
+              "icon": "excalidraw-icon",
+              "title": "Diagrama do pix"
             }
           }
         ]
@@ -189,23 +187,14 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "44cb5a4402069703",
-            "type": "leaf",
-            "state": {
-              "type": "opencode-terminal",
-              "state": {},
-              "icon": "terminal",
-              "title": "Opencode"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 843.875
+    "width": 843.875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,15 +217,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "6 - Notas principais/Pix-ledger-api.md",
+    "6 - Notas principais/Projetos.md",
+    "4 - Indexes/MOC.md",
+    "Sem título.canvas",
+    "6 - Notas principais/Freelance para fora.md",
     "6 - Notas principais/Superescalares.md",
     "4 - Indexes/MOC - Organização e Arquitetura de Computadores.md",
-    "4 - Indexes/MOC.md",
     "1 - Notas brutas/Continuação Superescalares.md",
     "2 - Referências/Aula Bruta/Continuação Superescalares.md",
     "6 - Notas principais/Risc X Cisc.md",
     "6 - Notas principais/Nuvem vs Autohospedagem.md",
     "6 - Notas principais/DataMasters - relação de documentos.md",
-    "6 - Notas principais/Projetos.md",
     "6 - Notas principais/Conceitos-chave.md",
     "Untitled.canvas",
     "Excalidraw/Diagrama pipeline de notas.md",
@@ -255,8 +247,6 @@
     "2 - Referências/Livros/Flow.md",
     "1 - Notas brutas/Risc X Cisc.md",
     "2 - Referências/Aula Bruta/Risc X Cisc.md",
-    "2 - Referências/Aula Bruta/Branch desvio.md",
-    "1 - Notas brutas/Branch desvio.md",
     "2 - Referências/Aula Bruta",
     "Excalidraw",
     "1 - Notas brutas/22swisher-articleLarge.jpg",
