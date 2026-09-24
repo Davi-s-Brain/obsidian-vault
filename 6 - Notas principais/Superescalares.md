@@ -23,6 +23,9 @@ flashcards:
   q-iujt: { nid: 1789513246338, hash: 22iqxj77, sync: shyi7f5z }
   q-42uw: { nid: 1789513246364, hash: 2b3x7jbz, sync: 763gcbei }
   q-7gpe: { nid: 1789513246389, hash: cczrmcgu, sync: ujkfs8mw }
+  q-nky3: { nid: 1790121223293, hash: dheuqxbs, sync: ffmzrr3d }
+  q-s6q6: { nid: 1790121223319, hash: vkr75gwn, sync: kiesf6ks }
+  q-mu62: { nid: 1790121223341, hash: drf8zwwz, sync: b862apu4 }
 ---
 
 # Superescalares
@@ -118,10 +121,13 @@ Quais ordens o processador precisa conhecer na política de iniciação?::Ordem 
 ^q-7gpe
 
 Para que serve a renomeação de registradores em superescalares?::Técnica para resolver dependências de saída (WAW) e anti-dependências (WAR) ao mapear registradores lógicos para físicos.
+^q-nky3
 
 Como a janela de instruções melhora o desempenho?::Permite que o processador busque instruções independentes mais adiante no código, aumentando a probabilidade de preencher as pipelines.
+^q-s6q6
 
 Por que a predição de desvio dinâmica é essencial em superescalares?::Porque o custo de esvaziar múltiplas pipelines em um erro de predição é muito maior do que em uma pipeline única.
+^q-mu62
 
 ---
 
